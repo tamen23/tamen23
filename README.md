@@ -33,10 +33,7 @@
     <img src="https://symfony.com/logos/symfony_black_03.svg" alt="Symfony" width="40" height="40"/>
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/2/29/Microsoft_SQL_Server_Logo.svg" alt="SQL" width="40" height="40"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Power_bi_logo_black.svg" alt="Power BI" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
@@ -57,10 +54,6 @@
 
 ---
 
-<br></br><br></br><br></br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/paternus-tamen/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexandre-calonne" height="30" width="40" /></a>
-<a href="https://discord.gg/leonard1325" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Alexandre#0882" height="30" width="40" /></a>
-<a href="paternus.djeukoua-tamen@epitech.eu" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="20839802" height="30" width="40" /></a>
-</p>
+<a href="https://linkedin.com/in/paternus-tamen/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paternus-tamen" height="32"  /></a>
+<a href="https://discord.gg/leonard1325" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leonard1325" height="32"  /></a>
+<a href="paternus.djeukoua-tamen@epitech.eu" target="blank"><img align="left" src="https://icones8.fr/icon/117562/microsoft-outlook-2019" alt="20839802" height="32"  /></a>
