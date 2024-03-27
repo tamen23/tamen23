@@ -56,4 +56,4 @@
 
 <a href="https://linkedin.com/in/paternus-tamen/" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paternus-tamen" height="32"  /></a>
 <a href="https://discord.gg/leonard1325" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="leonard1325" height="32"  /></a>
-<a href="paternus.djeukoua-tamen@epitech.eu" target="blank"><img align="left" src="https://icones8.fr/icon/117562/microsoft-outlook-2019" alt="20839802" height="32"  /></a>
+<a href="paternus.djeukoua-tamen@epitech.eu" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/90/Outlook.com_icon_%282012-2019%29.svg" alt="20839802" height="32"  /></a>
