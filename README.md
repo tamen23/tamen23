@@ -7,6 +7,7 @@
 
 
 - :mortar_board:  I’m currently a Data Engineer Student at EPITECH PARIS  ...
+- 💼 I’m a Data Engineer at Société Générale  
 - 🌱 I’m currently learning Python, SQL and Apache Spark 
 - 👯 I’m looking to collaborate on passionating project in Data, IA and Web development  
 - 💬 Ask me about IA, Machine Learning and Data processing 
@@ -47,7 +48,7 @@
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white&style=for-the-badge)
 [![Zsh](https://img.shields.io/badge/Zsh-f15a24?style=for-the-badge)](https://ohmyz.sh)
 <p align="center">
-    <b>Looking for a Data Engineer/ Full stack developper intern?
+    <b>Looking for a Data Engineer/ Full stack developper freelance ? 
         <a href="https://www.linkedin.com/in/paternus-tamen/">Let's connect and talk!</a>
     </b>
 </p>
